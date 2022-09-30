@@ -9,7 +9,7 @@ public class Main {
     System.out.println("la edad del cliente es"+ " "+ cliente.edad + " "+"años");
     cliente.telefono = 31874898;
     System.out.println("El telefono del cliente es"+" "+cliente.telefono);
-    cliente.credito = 2000;
+    cliente.credito = 1900;
     System.out.println("El cliente cuenta con un credito de"+ " "+ cliente.credito+" Dolares");
 
     trabajador.nombre = "Ahaba";
